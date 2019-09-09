@@ -1,0 +1,16 @@
+.text{
+	display: block;
+	width: 300px;
+	border-radius: 5px;
+}
+label{display: block;}
+
+.lijst{ margin-bottom: 25px;
+	display: block;
+}
+
+.voetbal{margin-left: 0px}
+
+.checkbox {
+    margin: .4rem;
+}
